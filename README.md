@@ -9,7 +9,7 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="19px" /> [Acesse o meu Linkedin](https://br.linkedin.com/in/aline-antunes-a908a6174) 
+:link: [Acesse o meu Linkedin](https://br.linkedin.com/in/aline-antunes-a908a6174) 
 
 <div align="center">
 <div style="display: inline_block"><br>
