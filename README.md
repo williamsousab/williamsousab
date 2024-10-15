@@ -3,13 +3,13 @@
 :ghost: Me chamo, William Sousa!  
 :school: Bacharel em Sistema de Informação - UNESA  
 :mortar_board: Especialização em LGPD e Direito Digital - ASOEC  
-:milky_way: Estou em eterno aprendizado  
+:milky_way: Eterno aprendizado  
 
 
 
 
 
-:link: [Acesse o meu Linkedin](https://br.linkedin.com/in/aline-antunes-a908a6174) 
+:link: [Acesse o meu Linkedin](https://www.linkedin.com/in/williamsousab) 
 
 <div align="center">
 <div style="display: inline_block"><br>
