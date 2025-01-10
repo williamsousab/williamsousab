@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="https://images.credly.com/size/680x680/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" alt="Distintivo IBM" style="width:300px;"/>
+<img src="https://github.com/williamsousab/williamsousab/blob/main/images/ibm.png?raw=true" alt="Distintivo IBM" style="width:300px;"/>
 
 
 <br>
