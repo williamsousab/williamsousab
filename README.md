@@ -3,7 +3,7 @@
 :ghost: Me chamo, William Sousa!  
 :school: Bacharel em Sistema de Informação - UNESA  
 :mortar_board: Especialização em LGPD e Direito Digital - ASOEC  
-:bar_chart: Cientista de Dados Certificado pela IBM
+:bar_chart: Cientista de Dados Certificado pela IBM  
 :milky_way: Eterno aprendizado
 
 
@@ -19,5 +19,10 @@
 <img align="center" alt="Aline-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Aline-Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> 
 </div>
+
+<br>
+
+<img src="https://images.credly.com/size/680x680/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" alt="Distintivo IBM" style="width:300px;"/>
+
 
 <br>
