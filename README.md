@@ -3,9 +3,8 @@
 :ghost: Me chamo, William Sousa!  
 :school: Bacharel em Sistema de Informação - UNESA  
 :mortar_board: Especialização em LGPD e Direito Digital - ASOEC  
-:milky_way: Eterno aprendizado  
-
-
+:bar_chart: Cientista de Dados Certificado pela IBM
+:milky_way: Eterno aprendizado
 
 
 
