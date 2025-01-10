@@ -1,10 +1,10 @@
 # Bem-Vindos ao meu GitHub! :bulb:
 
 :ghost: Me chamo, William Sousa!  
-:school: Bacharel em Sistema de Informação - UNESA  
-:mortar_board: Especialização em LGPD e Direito Digital - ASOEC  
+:school: Bacharel em Sistema de Informação  
+:mortar_board: Pós Graduação em Lei Geral de Proteção de Dados Pessoais e Direito Digital  
 :bar_chart: Cientista de Dados Certificado pela IBM  
-:milky_way: Eterno aprendizado
+:milky_way: Eterno Aprendizado
 
 
 
