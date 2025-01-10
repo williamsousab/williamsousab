@@ -24,5 +24,4 @@
 
 <img src="https://github.com/williamsousab/williamsousab/blob/main/images/ibm.png?raw=true" alt="Distintivo IBM" style="width:300px;"/>
 
-
 <br>
